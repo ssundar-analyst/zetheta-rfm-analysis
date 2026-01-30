@@ -10,7 +10,7 @@ to identify high-value and at-risk customers.
 - Power BI
 
 ## Dataset
-- 50,000+ customer transaction records
+- 100+ customer transaction records
 
 ## Key Tasks
 - Cleaned and standardized date formats
